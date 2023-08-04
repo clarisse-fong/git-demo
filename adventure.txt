@@ -1,4 +1,4 @@
 Socrates
 Joan of Arc
 Abraham Lincoln
-Adding something differetnt than github to this line
+Testing out Merge Conflict
