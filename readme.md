@@ -1,1 +1,1 @@
-Woo! Doing a git demo with pull/push requests
+Woo! Doing a git demo with pull/push requests.
